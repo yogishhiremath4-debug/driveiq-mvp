@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Unused local artifact
+file.jpe
+
+src/Untitled-1.py
+src/Untitled-2.py
